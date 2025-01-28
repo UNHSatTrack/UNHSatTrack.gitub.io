@@ -2,7 +2,7 @@
 # Welcome to UNHSatTrack Research Website
 
 ## About Me
-I am an Associate Professor at the University of New Hampshire, specializing in wearable health technology, edge machine learning, and advanced sensor development. My research is dedicated to addressing critical health and environmental challenges by designing innovative solutions that combine cutting-edge technology with practical applications.
+We build Satellite tracker
 
 ## Research Focus
 - **Wearable Sensors**: Development of unobtrusive, smart textile sensors for health monitoring, focusing on lymphedema detection and other conditions.
