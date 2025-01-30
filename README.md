@@ -1,8 +1,10 @@
 # UNHSatTrack.gitub.io
 # Welcome to UNHSatTrack Research Website
 
-## About Me
-We build Satellite tracker
+## About Olivia Giralt 
+Olivia is an Electrical Engineering student graduating fall of 2025. After completing a summer internship relating to satellite communications, Olivia was inspired to pursue a senior project in the subject.
+## About Tony Abella 
+
 
 ## Research Focus
 - **Wearable Sensors**: Development of unobtrusive, smart textile sensors for health monitoring, focusing on lymphedema detection and other conditions.
@@ -33,8 +35,10 @@ We build Satellite tracker
   - DOI: [10.1109/ICCNC.2018.8390334](https://doi.org/10.1109/ICCNC.2018.8390334)
 
 ## Contact
-- **Email**: [mdshaad.mahmud@unh.edu](mailto:mdshaad.mahmud@unh.edu)
-- **LinkedIn**: [Md Shaad Mahmud](https://www.linkedin.com/in/mdshaadmahmud/)
+- **Tony Abella**
+- **Email**: [Tony.Abella@unh.edu](mailto:Tony.Abella@unh.edu)
+- **Olivia Giralt**: [Olivia.Giralt@unh.edu](mailto:Olivia.Giralt@unh.edu)
+- **LinkedIn**: [Olivia Giralt](https://www.linkedin.com/in/olivia-giralt-75b266253/)
 - **Google Scholar**: [Profile Link](https://scholar.google.com/citations?user=xxxxxxx)
 
 ## External Links
